@@ -1,4 +1,3 @@
-[readme_md.md](https://github.com/user-attachments/files/32377467/readme_md.md)
 # Quantitative Electrocardiogram (ECG) & Phonocardiogram (PCG) Analysis
 
 This repository contains the digital signal processing (DSP) codebase, raw physiological data, and comprehensive research documentation for an advanced Biomedical Engineering study conducted at Tel Aviv University. The project investigates the critical synchronization between the electrical excitation and mechanical contraction of the human heart through the simultaneous acquisition and processing of ECG and PCG signals. 
